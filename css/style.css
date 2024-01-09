@@ -72,12 +72,17 @@ main {
     padding: 1rem 0 1.5rem 0;
 }
 .left-sd .acc figure{
+    position: relative;
     padding: 0 0 1rem 0;
 }
 .left-sd .acc .active {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
     border-radius: 50%;
-    width: 10px;
-    height: 10px;
+    border: 2px solid white;
+    width: 15px;
+    height: 15px;
     background-color: var(--green);
 }
 
