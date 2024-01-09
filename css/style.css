@@ -74,6 +74,12 @@ main {
 .left-sd .acc figure{
     padding: 0 0 1rem 0;
 }
+.left-sd .acc .active {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: var(--green);
+}
 
 /* right-sd */
 
