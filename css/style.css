@@ -201,14 +201,19 @@ main {
 }
 .right-side-bar .action {
     display: flex;
+    align-items: center;
     column-gap: 10px;
 }
 .right-side-bar .action>* {
     display: inline-block;
     padding-left: 1.5rem;
 }
+.right-side-bar .action img:nth-child(4){
+    filter: brightness(40%);
+}
 .right-side-bar .action #arrow{
-    height: 0.7rem;
+    filter: brightness(20%);
+    height: 0.75rem;
 }
 .message-content {
     padding: 1.5rem 2.5rem;
