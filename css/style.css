@@ -211,9 +211,14 @@ main {
 .right-side-bar .action img:nth-child(4){
     filter: brightness(40%);
 }
-.right-side-bar .action #arrow{
+.right-side-bar .action span {
+    font-size: 20px;
+    color: #c2c2c2;
+    margin-top: -2px;
+}
+.right-side-bar .action img:last-child{
     filter: brightness(20%);
-    height: 0.75rem;
+    height: 0.6rem;
 }
 .message-content {
     padding: 1.5rem 2.5rem;
