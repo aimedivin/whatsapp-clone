@@ -227,6 +227,18 @@ main {
     margin-top: 5px;
     width: 44%;
 }
+.message .triangle {
+    position: absolute;
+    left: -16px;
+    width: 0;
+    height: 0;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 5px;
+    border-left: 25px solid transparent; 
+    border-top: 15px solid black;
+    box-shadow: #1919191f 0 2px;
+    box-sha
+}
 .message .left .text,
 .message .right .text {
     border-radius: 7px;
