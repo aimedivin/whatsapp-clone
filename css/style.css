@@ -236,8 +236,6 @@ main {
     border-bottom-left-radius: 5px;
     border-left: 25px solid transparent; 
     border-top: 15px solid black;
-    box-shadow: #1919191f 0 2px;
-    box-sha
 }
 .message .left .text,
 .message .right .text {
