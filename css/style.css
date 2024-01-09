@@ -199,9 +199,16 @@ main {
     height: 8px;
     border-radius: 50%;
 }
+.right-side-bar .action {
+    display: flex;
+    column-gap: 10px;
+}
 .right-side-bar .action>* {
     display: inline-block;
     padding-left: 1.5rem;
+}
+.right-side-bar .action #arrow{
+    height: 0.7rem;
 }
 .message-content {
     padding: 1.5rem 2.5rem;
