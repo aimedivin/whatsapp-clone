@@ -77,12 +77,12 @@ main {
 }
 .left-sd .acc .active {
     position: absolute;
-    bottom: 20px;
-    right: 20px;
+    bottom: 1.15rem;
+    right: 1.55rem;
     border-radius: 50%;
     border: 2px solid white;
-    width: 15px;
-    height: 15px;
+    width: 13px;
+    height: 13px;
     background-color: var(--green);
 }
 
