@@ -10,6 +10,3 @@ This project is a clone of the Simple WhatsApp Web page, designed to replicate t
 ## Technologies Used
 
 - [Frontend: HTML & CSS]
-
-
-
